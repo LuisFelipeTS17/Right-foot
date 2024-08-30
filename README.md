@@ -11,11 +11,12 @@ Esse projeto foi desenvolvido junto ao curso Discover da Rockeseat com 50h de du
   <a href="#memo-licença">Licença</a>
 </p>
 
+<p align="center">
+  <img alt="projeto DevLinks" src=".github/capa-projeto.jpg">
+</p>
+
 <br>
 
-<p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
