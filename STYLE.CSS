@@ -76,6 +76,7 @@ position: relative; /* trazer o icone para ficar apenas na caixa do switch */
 width: 64px;
 
 margin: 4px auto;
+
 }
 
 #switch button {
@@ -90,6 +91,7 @@ margin: 4px auto;
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
+  cursor: pointer;
 }
 
 .light #switch button {
