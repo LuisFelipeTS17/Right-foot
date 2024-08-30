@@ -91,7 +91,7 @@ margin: 4px auto;
   left: 0;
   z-index: 1;
   transform: translateY(-50%);
-  cursor: pointer;
+  
 }
 
 .light #switch button {
@@ -107,6 +107,11 @@ margin: 4px auto;
   border: 1px solid var(--stroke-color);
   -webkit-backdrop-filter: blur(4px);
   border-radius:9999px;
+  
+}
+
+#switch button, #switch span {
+  cursor: pointer;
 }
 
 
